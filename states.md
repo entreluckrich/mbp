@@ -14,4 +14,4 @@ partners: []
 show_staff: false
 
 ---
-[LifeLine California](states/california/ "Lifeline California")
+[LifeLine California](/states/california/ "Lifeline California")
