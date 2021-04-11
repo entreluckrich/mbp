@@ -10,4 +10,4 @@ menu:
     title: States
 
 ---
-[Lifeline Program](/project/electric-vehicle-design/ "LifeLine Program")
+[Lifeline Program](/projects/electric-vehicle-design/ "LifeLine Program")
