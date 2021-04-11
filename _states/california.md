@@ -6,7 +6,7 @@ banner_image: ''
 slug: ''
 menu:
   navigation:
-    weight: 6
+    weight: 5
     title: States
 
 ---
