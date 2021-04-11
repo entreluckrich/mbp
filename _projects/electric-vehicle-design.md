@@ -4,7 +4,7 @@ tags:
 - research
 date: '2018-02-25T19:07:50.000+00:00'
 banner_image: "/uploads/2018/02/25/car.jpg"
-sub_heading: 'Human centered design in the electric vehicle era '
+sub_heading: 'LifeLine Program '
 slug: lifeline
 
 ---
